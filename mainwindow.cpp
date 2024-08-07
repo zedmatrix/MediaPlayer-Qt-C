@@ -1,8 +1,3 @@
-#include <QtCore/QVariant>
-#include <QtWidgets/QApplication>
-#include <QtWidgets/QMainWindow>
-#include <QtWidgets/QPushButton>
-#include <QtWidgets/QWidget>
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 #include <QDebug>
